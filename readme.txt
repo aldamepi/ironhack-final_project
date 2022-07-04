@@ -5,7 +5,8 @@ Presentation folder introduces the development steps and the main results for th
 
 code includes all the notebooks used.
 
-models includes the backups of the models and checkpoints.
+models includes the backups of the models and checkpoints: 
+https://drive.google.com/drive/folders/1of7vzhRlGzL_IuX8OR9_Ew0f0CWjYPbr?usp=sharing
 
 
 https://www.linkedin.com/in/alberto-mengual-/
