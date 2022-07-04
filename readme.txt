@@ -1,4 +1,4 @@
-COVID-19 detection by Xray images.
+COVID-19 detection by X-ray images.
 That project is a development approach to Convolutional Neural Networks (CNN).
 
 Presentation folder introduces the development steps and the main results for the classification.
