@@ -40,10 +40,10 @@ The Data Team has already classify chest X-Rays available in the folders: data_t
 The models of the different compiled, trained and optimized deep neural networks are included in the following [link to google drive](https://drive.google.com/drive/folders/1of7vzhRlGzL_IuX8OR9_Ew0f0CWjYPbr?usp=sharing)
 
 ## Code
-The different versions of the neural networks are contained in the [code folder](https://github.com/aldamepi/ironhack-final_project/tree/master/code).
+The different versions of the Python notebooks are contained in the [code folder](https://github.com/aldamepi/ironhack-final_project/tree/master/code).
 
 ## Results
-In the [presentation folder](https://github.com/aldamepi/ironhack-final_project/tree/master/presentation) there is a PowerPoint which introduces the development steps and the main results for the classification.
+In the [presentation folder](https://github.com/aldamepi/ironhack-final_project/tree/master/presentation) there is a PowerPoint which introduces the development steps and reveals the main results for the classifications.
 
 
 
