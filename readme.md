@@ -43,7 +43,7 @@ The models of the different compiled, trained and optimized deep neural networks
 The different versions of the Python notebooks are contained in the [code folder](https://github.com/aldamepi/ironhack-final_project/tree/master/code).
 
 ## Results
-In the [presentation folder](https://github.com/aldamepi/ironhack-final_project/tree/master/presentation) there is a PowerPoint which introduces the development steps and reveals the main results for the classifications.
+In this [llink to google drive](https://drive.google.com/drive/folders/1w09KgcR1lrrl05yasEMO8cLNfwXB9y9u?usp=sharing) or in the [presentation folder](https://github.com/aldamepi/ironhack-final_project/tree/master/presentation) there is a PowerPoint which introduces the development steps and reveals the main results for the classifications.
 
 
 
